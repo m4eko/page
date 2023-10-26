@@ -29,8 +29,8 @@ header {
 }
 .dd0, .dd1 {
     color: #ffafc8;
+    user-select: none;
 }
-
 .slash0, .slash1, .slash2 {
     color: gray;
 }
@@ -45,5 +45,7 @@ a:visited {
     text-decoration: none;
     color: white;
 }
-
-
+a:hover {
+    text-decoration: underline;
+    color: #ffafc8;
+}
