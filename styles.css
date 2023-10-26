@@ -11,7 +11,7 @@ header {
     font-size: 50px;
     font-family: "Lexend", sans-serif;
     text-align: left;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 .dot {
     color: white;
@@ -23,16 +23,26 @@ header {
     height: 29px;
     transform: translateY(10%);
 }
-.lh {
+.lh, .contact {
     font-size: 25px;
 }
-.dotdot {
+.dd0, .dd1 {
     color: #ffafc8;
 }
-.socials {
+
+.slash0, .slash1, .slash2 {
+    color: gray;
+}
+.mail {
+    color: #ff1493;
+}
+a:link {
+    text-decoration: none;
     color: white;
-    text-decoration:none;
-    text-decoration-color: white;
+}
+a:visited {
+    text-decoration: none;
+    color: white;
 }
 
 
