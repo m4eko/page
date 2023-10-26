@@ -1,0 +1,37 @@
+body {
+    background: #1c1b26;
+    color: #ffffff;
+    padding: 10px;
+    text-align: left;
+    font-family: "Jost", sans-serif;
+    font-size: 20px;
+}
+header {
+    color: #ffafc8;
+    font-size: 50px;
+    font-family: "Lexend", sans-serif;
+    text-align: left;
+    margin-bottom: 0px;
+}
+.dot {
+    color: white;
+}
+.text {
+    font-size: 20px;
+}
+.flag {
+    height: 29px;
+    transform: translateY(10%);
+}
+.lh {
+    font-size: 25px;
+}
+.dotdot {
+    color: #ffafc8;
+}
+.socials {
+    color: white;
+    text-decoration:none;
+}
+
+
