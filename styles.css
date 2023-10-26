@@ -9,6 +9,7 @@ body {
 .heart {
     height: 55px;
     transform: translateY(25%);
+    user-select: none;
 }
 header {
     color: #ffafc8;
