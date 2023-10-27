@@ -39,7 +39,11 @@ header {
 .slash0, .slash1, .slash2 {
     color: gray;
 }
-a:link {
+ a:link {
+    text-decoration: none;
+    color: white;
+}
+.socials a:link {
     text-decoration: none;
     color: white;
 }
